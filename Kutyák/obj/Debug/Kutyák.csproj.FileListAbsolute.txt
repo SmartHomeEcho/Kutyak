@@ -1,0 +1,7 @@
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Kutyak\Kutyák\Kutyák\bin\Debug\Kutyák.exe.config
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Kutyak\Kutyák\Kutyák\bin\Debug\Kutyák.exe
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Kutyak\Kutyák\Kutyák\bin\Debug\Kutyák.pdb
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Kutyak\Kutyák\Kutyák\obj\Debug\Kutyák.csprojAssemblyReference.cache
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Kutyak\Kutyák\Kutyák\obj\Debug\Kutyák.csproj.CoreCompileInputs.cache
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Kutyak\Kutyák\Kutyák\obj\Debug\Kutyák.exe
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Kutyak\Kutyák\Kutyák\obj\Debug\Kutyák.pdb
